@@ -1,4 +1,5 @@
-import _ from "lodash";
-export default function last(arr) { 
-    return _.last(arr);
-};
+import _ from 'lodash';
+
+export default function last(arr) {
+  return _.last(arr);
+}
